@@ -1,0 +1,4 @@
+{"name":"startStop","class":"BeamNGTrigger","persistentId":"8f1a1a3e-90c4-48eb-9767-0549df6fb297","__parent":"SimGroup_","position":[1043.28625,25.7021828,11.9478464],"scale":[33.137661,1.98233652,6.1505518]}
+{"name":"lapSplit2","class":"BeamNGTrigger","persistentId":"cab6251e-aed0-4d0c-95c4-adab4a6262a0","__parent":"SimGroup_","position":[926.594849,-164.554977,9.13237858],"rotationMatrix":[-0.261323571,0.965251148,0,-0.965251148,-0.261323571,0,0,0,1],"scale":[33.137661,1.98233652,6.1505518]}
+{"name":"lapSplit1","class":"BeamNGTrigger","persistentId":"f4a252e2-657c-4ecf-8c25-921601e7089e","__parent":"SimGroup_","position":[1002.19232,146.522888,11.9478464],"rotationMatrix":[0.999852121,-0.0171971805,0,0.0171971805,0.999852121,0,0,0,1],"scale":[33.137661,1.98233652,6.1505518]}
+{"name":"SimGroup_","class":"SimGroup","persistentId":"1b6c6377-6b1e-4f58-b11a-03c7f84dd385","groupPosition":"0 0 0"}
